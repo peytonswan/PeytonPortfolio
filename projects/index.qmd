@@ -1,0 +1,15 @@
+---
+title: "Research Projects"
+format: html
+---
+
+# 🚀 Current Projects
+
+## 🧠 Pedalogical: Reimagining Education with AI
+
+**Pedalogical** is an AI-driven initiative that personalizes education by dynamically generating assignments based on each student’s comprehension.\
+Developed collaboratively with undergraduate students at Willamette University, it leverages generative AI to enhance learning **and** reduce instructor workload.
+
+➡️ [Learn more about Pedalogical](pedalogical.qmd)
+
+
